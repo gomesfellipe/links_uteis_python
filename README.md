@@ -21,6 +21,11 @@
 
 * [Multiple Time Series Forecasting with PyCaret](https://towardsdatascience.com/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe?utm_campaign=postfity&utm_content=postfity1c911&utm_medium=social&utm_source=linkedin&gi=82d7feca19e7)
 
+# Neural Networks
+
+* [Diferença entre um lote e uma época em uma rede neural - Maschine Learning Mastery](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
+* [Variational Autoencoders (VAEs) – Definição, Redução de Dimensionalidade, Espaço Latente e Regularização - Deep Learning Book DSA](https://www.deeplearningbook.com.br/variational-autoencoders-vaes-definicao-reducao-de-dimensionalidade-espaco-latente-e-regularizacao/)
+
 # Avaliação
 
 * [https://neptune-contrib.readthedocs.io/index.html](https://neptune-contrib.readthedocs.io/index.html)
