@@ -56,3 +56,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 # Evalue
 
 * [https://neptune-contrib.readthedocs.io/index.html](https://neptune-contrib.readthedocs.io/index.html)
+
+# Modelos 
+
+* [Linear Models at the leaves the Trees Based Models](https://github.com/cerlymarco/linear-tree)
