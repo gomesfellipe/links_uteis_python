@@ -33,6 +33,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 # Feature Extraction
 
 * [Guide To Automatic Feature Engineering Using AutoFeat](https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/)
+* [cod3licious / autofeat](https://github.com/cod3licious/autofeat/blob/master/autofeat_examples.ipynb)
 
 # PyCaret
 
