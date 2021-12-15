@@ -35,6 +35,10 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [Guide To Automatic Feature Engineering Using AutoFeat](https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/)
 * [cod3licious / autofeat](https://github.com/cod3licious/autofeat/blob/master/autofeat_examples.ipynb)
 
+# Séries temporais
+
+* [Anomaly Detection Time Series: ChangeFinder - kaggle notebook](https://www.kaggle.com/caesarlupum/anomaly-detection-time-series-changefinder)
+
 # PyCaret
 
 * [Multiple Time Series Forecasting with PyCaret](https://towardsdatascience.com/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe?utm_campaign=postfity&utm_content=postfity1c911&utm_medium=social&utm_source=linkedin&gi=82d7feca19e7)
