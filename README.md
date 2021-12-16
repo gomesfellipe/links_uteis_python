@@ -34,6 +34,8 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 
 * [Guide To Automatic Feature Engineering Using AutoFeat](https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/)
 * [cod3licious / autofeat](https://github.com/cod3licious/autofeat/blob/master/autofeat_examples.ipynb)
+* [How to Use Feature Extraction on Tabular Data for Machine Learning](https://machinelearningmastery.com/feature-extraction-on-tabular-data/)
+* [How to Use Polynomial Feature Transforms for Machine Learning](https://machinelearningmastery.com/polynomial-features-transforms-for-machine-learning/)
 
 # Séries temporais
 
@@ -48,6 +50,8 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [Diferença entre um lote e uma época em uma rede neural - Maschine Learning Mastery](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
 * [Variational Autoencoders (VAEs) – Definição, Redução de Dimensionalidade, Espaço Latente e Regularização - Deep Learning Book DSA](https://www.deeplearningbook.com.br/variational-autoencoders-vaes-definicao-reducao-de-dimensionalidade-espaco-latente-e-regularizacao/)
 * [Python keras.layers.Conv1D() Examples](https://www.programcreek.com/python/example/89676/keras.layers.Conv1D)
+* [3 Ways to Encode Categorical Variables for Deep Learning](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/)
+* [Decision Forest for dummies- Kaggle](https://www.kaggle.com/kritidoneria/decision-forest-for-dummies)
 
 # Optimization
 
