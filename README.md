@@ -70,3 +70,17 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 # Modelos 
 
 * [Linear Models at the leaves the Trees Based Models](https://github.com/cerlymarco/linear-tree)
+
+# AutoML
+
+* [TPOT](https://machinelearningmastery.com/tpot-for-automated-machine-learning-in-python/)
+* [AutoSKlearn](https://automl.github.io/auto-sklearn/master/)
+* [Auto-Weka](https://www.automl.org/automl/autoweka/)
+* [Autokeras](autokeras.com)
+* [NNI (Neural Network Intelligence)](https://nni.readthedocs.io/en/stable/)
+* [H2O](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
+* [MLjar](https://supervised.mljar.com/)
+* [LightAutoML](https://lightautoml.readthedocs.io/en/latest/)
+* [AutoGluon](https://auto.gluon.ai/stable/index.html)
+* [EvalML](evalml.alteryx.com/en/stable/)
+* [FLAML (Microsoft)](https://github.com/microsoft/FLAML)
