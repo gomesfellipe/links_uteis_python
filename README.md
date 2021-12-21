@@ -40,6 +40,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 # Séries temporais
 
 * [Anomaly Detection Time Series: ChangeFinder - kaggle notebook](https://www.kaggle.com/caesarlupum/anomaly-detection-time-series-changefinder)
+* [skforecast - Time series forecasting with scikit-learn regressors](https://github.com/JoaquinAmatRodrigo/skforecast)
 
 # PyCaret
 
