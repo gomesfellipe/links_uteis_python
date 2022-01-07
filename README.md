@@ -25,6 +25,11 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 # Missing
 
 * [Imputing missing values with variants of IterativeImputer](https://scikit-learn.org/stable/auto_examples/impute/plot_iterative_imputer_variants_comparison.html)
+* [missingpy - library for missing data imputation in Python](https://github.com/epsilon-machine/missingpy)
+
+# Detecção de Outliers / Anomalias
+
+* [PyOD - toolkit for detecting outlying objects in multivariate data](https://pyod.readthedocs.io/en/latest/)
 
 # Data Transformation
 
@@ -36,10 +41,6 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [cod3licious / autofeat](https://github.com/cod3licious/autofeat/blob/master/autofeat_examples.ipynb)
 * [How to Use Feature Extraction on Tabular Data for Machine Learning](https://machinelearningmastery.com/feature-extraction-on-tabular-data/)
 * [How to Use Polynomial Feature Transforms for Machine Learning](https://machinelearningmastery.com/polynomial-features-transforms-for-machine-learning/)
-
-# Missing
-
-* [missingpy - library for missing data imputation in Python](https://github.com/epsilon-machine/missingpy)
 
 # Regressão Linear
 
