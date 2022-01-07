@@ -37,6 +37,14 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [How to Use Feature Extraction on Tabular Data for Machine Learning](https://machinelearningmastery.com/feature-extraction-on-tabular-data/)
 * [How to Use Polynomial Feature Transforms for Machine Learning](https://machinelearningmastery.com/polynomial-features-transforms-for-machine-learning/)
 
+# Missing
+
+* [missingpy - library for missing data imputation in Python](https://github.com/epsilon-machine/missingpy)
+
+# Regressão Linear
+
+* [Guia completo para análise regressional usando Python](https://towardsdatascience.com/complete-guide-to-regressional-analysis-using-python-bbe76b3e451f)
+
 # Séries temporais
 
 * [Anomaly Detection Time Series: ChangeFinder - kaggle notebook](https://www.kaggle.com/caesarlupum/anomaly-detection-time-series-changefinder)
@@ -85,3 +93,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [AutoGluon](https://auto.gluon.ai/stable/index.html)
 * [EvalML](evalml.alteryx.com/en/stable/)
 * [FLAML (Microsoft)](https://github.com/microsoft/FLAML)
+
+# Audio
+
+* [Segmentação de áudio (modelo de classificação)](https://medium.com/@octaviofisica/segmenta%C3%A7%C3%A3o-de-%C3%A1udio-2f1e978b3d16)
