@@ -98,3 +98,10 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 # Audio
 
 * [Segmentação de áudio (modelo de classificação)](https://medium.com/@octaviofisica/segmenta%C3%A7%C3%A3o-de-%C3%A1udio-2f1e978b3d16)
+
+# Livros
+
+* [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+
+
+
