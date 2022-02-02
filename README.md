@@ -30,6 +30,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 # Detecção de Outliers / Anomalias
 
 * [PyOD - toolkit for detecting outlying objects in multivariate data](https://pyod.readthedocs.io/en/latest/)
+* [Replace Outlier Detection by Simple Statistics with ECOD - Medium ](https://medium.com/geekculture/replace-outlier-detection-by-simple-statistics-with-ecod-f95a7d982f79)
 
 # Data Transformation
 
