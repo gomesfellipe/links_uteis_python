@@ -74,6 +74,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 # Interpretable ML
 
 * [rulefit algorithm from Friedman and Popescu](https://github.com/christophM/rulefit)
+* [Shapash - make machine learning interpretable and understandable. several types of visualization that display explicit labels that everyone can understand](https://github.com/MAIF/shapash)
 
 # Evalue
 
