@@ -38,6 +38,10 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 
 * [Transform your categorical columns with imperio SmoothingTransformer](https://medium.com/softplus-publication/transform-your-categorical-columns-with-imperio-smoothingtransformer-d6534c283c60)
 
+# Feature Selection
+
+* [How to perform Unsupervised Feature Selection using Supervised Algorithms](https://www.deepwizai.com/projects/how-to-perform-unsupervised-feature-selection-using-supervised-algorithms)
+
 # Feature Extraction
 
 * [Guide To Automatic Feature Engineering Using AutoFeat](https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/)
