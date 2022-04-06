@@ -53,6 +53,10 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 
 * [Guia completo para análise regressional usando Python](https://towardsdatascience.com/complete-guide-to-regressional-analysis-using-python-bbe76b3e451f)
 
+# Modelos
+
+* [XBNet - Xtremely Boosted Network](https://github.com/tusharsarkar3/XBNet)
+
 # Séries temporais
 
 * [Anomaly Detection Time Series: ChangeFinder - kaggle notebook](https://www.kaggle.com/caesarlupum/anomaly-detection-time-series-changefinder)
