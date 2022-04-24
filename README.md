@@ -22,6 +22,10 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [SweetViz](https://github.com/fbdesignpro/sweetviz)
 * [Lux](https://github.com/lux-org/lux)
 
+# Data Viz
+
+* [ipyvizzu - Jupyter notebook integration of Vizzu](https://github.com/vizzuhq/ipyvizzu)
+
 # Missing
 
 * [Imputing missing values with variants of IterativeImputer](https://scikit-learn.org/stable/auto_examples/impute/plot_iterative_imputer_variants_comparison.html)
