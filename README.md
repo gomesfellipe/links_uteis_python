@@ -12,7 +12,7 @@ A medida que vamos caminhando profissionalmente utilizamos cada vez mais recurso
 
 ## Conteúdo
 
-Existem links tanto em portugues quanto em inglês e a maioria dos links aqui está mais relacionado com estatística e programação em R mas também existem muitos dos links que apresentam os métodos em linguagem Python. A organização destes links foi sendo feita conforme os links foram adicionados então ainda tem muito a melhorar! O importante é que o conteúdo está ai e basta um `ctrl+F` para achar algum material sobre o assunto de interesse
+Existem links tanto em portugues quanto em inglês e todos os links aqui estão em linguagem Python. A organização destes links foi sendo feita conforme os links foram adicionados então ainda tem muito a melhorar! O importante é que o conteúdo está ai e basta um `ctrl+F` para achar algum material sobre o assunto de interesse
 
 ---
 
@@ -21,6 +21,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 
 * [SweetViz](https://github.com/fbdesignpro/sweetviz)
 * [Lux](https://github.com/lux-org/lux)
+* [Intel® Extension for Scikit-learn](https://intel.github.io/scikit-learn-intelex/)
 
 # Data Viz
 
@@ -129,4 +130,5 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 
 * [BentoML](https://github.com/bentoml/BentoML)
 * [mlnotify - tracking URL for your model training](https://github.com/aporia-ai/mlnotify)
+* [NannyML - estimate post-deployment model performance](https://github.com/NannyML/nannyml)
 
