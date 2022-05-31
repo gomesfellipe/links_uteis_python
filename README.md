@@ -61,6 +61,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 # Modelos
 
 * [XBNet - Xtremely Boosted Network](https://github.com/tusharsarkar3/XBNet)
+* [LCE - Local Cascade Ensemble](https://towardsdatascience.com/random-forest-or-xgboost-it-is-time-to-explore-lce-2fed913eafb8)
 
 # Séries temporais
 
