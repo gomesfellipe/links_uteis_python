@@ -62,10 +62,15 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [Guia completo para análise regressional usando Python](https://towardsdatascience.com/complete-guide-to-regressional-analysis-using-python-bbe76b3e451f)
 
-# Modelos
+# Modelos supervisionados
 
 * [XBNet - Xtremely Boosted Network](https://github.com/tusharsarkar3/XBNet)
 * [LCE - Local Cascade Ensemble](https://towardsdatascience.com/random-forest-or-xgboost-it-is-time-to-explore-lce-2fed913eafb8)
+* [Linear Models at the leaves the Trees Based Models](https://github.com/cerlymarco/linear-tree)
+
+# Modelos não supervisionados
+
+* [spotify/annoy: Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk](https://lnkd.in/dPmSMyC3)
 
 # Séries temporais
 
@@ -102,10 +107,6 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 # Evalue
 
 * [https://neptune-contrib.readthedocs.io/index.html](https://neptune-contrib.readthedocs.io/index.html)
-
-# Modelos 
-
-* [Linear Models at the leaves the Trees Based Models](https://github.com/cerlymarco/linear-tree)
 
 # AutoML
 
