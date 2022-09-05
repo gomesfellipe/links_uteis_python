@@ -71,6 +71,8 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 # Modelos não supervisionados
 
 * [spotify/annoy: Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk](https://lnkd.in/dPmSMyC3)
+* [Why you should not rely on t-SNE, UMAP or TriMAP (use PaCMAP)](https://towardsdatascience.com/why-you-should-not-rely-on-t-sne-umap-or-trimap-f8f5dc333e59)
+* [Práticas recomendadas para visualizar os resultados do cluster](https://towardsdatascience.com/best-practices-for-visualizing-your-cluster-results-20a3baac7426)
 
 # Séries temporais
 
