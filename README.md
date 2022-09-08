@@ -30,6 +30,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 # Data Viz
 
 * [ipyvizzu - Jupyter notebook integration of Vizzu](https://github.com/vizzuhq/ipyvizzu)
+* [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/)
 
 # Missing
 
