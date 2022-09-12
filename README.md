@@ -16,6 +16,17 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 ---
 
+# IDE
+
+* [5 principais IDEs Python para Data Science](https://www.datacamp.com/community/tutorials/data-science-python-ide)
+* [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+* [rtven - Flow-based visual scripting for Python](https://ryven.org/)
+* [Einblick - Data science at the speed of thought](https://www.einblick.ai/?utm_source=LiAWnB&utm_medium=LiPost&utm_campaign=NbAW)
+
+# Soluções do Kaggle
+
+* [Kaggle Solutions - The Most Comprehensive List of Kaggle Solutions and Ideas](https://farid.one/kaggle-solutions/)
+
 # Algoritmos em Python
 
 * [Hundreds of algorithms implemented in python](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
@@ -31,6 +42,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [ipyvizzu - Jupyter notebook integration of Vizzu](https://github.com/vizzuhq/ipyvizzu)
 * [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/)
+* [Python Wrapper for NVD3 - It's time for beautiful charts](https://github.com/areski/python-nvd3)
 
 # Missing
 
@@ -144,4 +156,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [mlnotify - tracking URL for your model training](https://github.com/aporia-ai/mlnotify)
 * [NannyML - estimate post-deployment model performance](https://github.com/NannyML/nannyml)
 * [Truss: Serve any model without boilerplate code](https://lnkd.in/eVPfRFhG)
+
+
+
 
