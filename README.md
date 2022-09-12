@@ -128,6 +128,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 # Text
 
 * [Ultimate guide to deal with Text Data](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
+* [Texthero - Text preprocessing, representation and visualization from zero to hero.](https://texthero.org/)
 
 # Audio
 
