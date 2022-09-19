@@ -141,6 +141,10 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [Ultimate guide to deal with Text Data](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 * [Texthero - Text preprocessing, representation and visualization from zero to hero.](https://texthero.org/)
+* [Automatic Text Summarization Using TextRank Algorithm](https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/)
+* [Top2Vec learns jointly embedded topic, document and word vectors.](https://github.com/ddangelov/Top2Vec)
+* [BERTopic - topic modeling technique that leverages transformers and c-TF-IDF for easily interpretable topics](https://github.com/MaartenGr/BERTopic)
+* [Arabica - A Python package for exploratory analysis of text data](https://github.com/PetrKorab/Arabica)
 
 # Audio
 
