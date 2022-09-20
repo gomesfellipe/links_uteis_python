@@ -55,6 +55,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [PyOD - toolkit for detecting outlying objects in multivariate data](https://pyod.readthedocs.io/en/latest/)
 * [Replace Outlier Detection by Simple Statistics with ECOD - Medium ](https://medium.com/geekculture/replace-outlier-detection-by-simple-statistics-with-ecod-f95a7d982f79)
 * [Anomalib - deep learning library that aims to collect state-of-the-art anomaly models with strong focus on image-based](https://github.com/openvinotoolkit/anomalib)
+* [Lidando com valores discrepantes usando três modelos robustos de regressão linear](https://towardsdatascience.com/dealing-with-outliers-using-three-robust-linear-regression-models-544cfbd00767)
 
 # Data Transformation
 
