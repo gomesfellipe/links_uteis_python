@@ -119,6 +119,8 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Shapash - make machine learning interpretable and understandable. several types of visualization that display explicit labels that everyone can understand](https://github.com/MAIF/shapash)
 * [PiML is a new Python toolbox for interpretable machine learning model development and validation](https://github.com/SelfExplainML/PiML-Toolbox)
 * [Post-processing the SHAP values of categorical](https://github.com/conorosully/medium-articles/blob/master/src/interpretable%20ml/SHAP/SHAP_catboost.ipynb)
+* [ELI5 - helps to debug machine learning classifiers and explain their predictions](https://github.com/TeamHG-Memex/eli5)
+* [Skater - Oracle - framework to help one build an Interpretable machine learning system often needed for real world use-cases.]()
 
 # Evalue
 
