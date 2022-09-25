@@ -99,6 +99,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [Multiple Time Series Forecasting with PyCaret](https://towardsdatascience.com/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe?utm_campaign=postfity&utm_content=postfity1c911&utm_medium=social&utm_source=linkedin&gi=82d7feca19e7)
 * [Introduction to Binary Classification with PyCaret](https://towardsdatascience.com/introduction-to-binary-classification-with-pycaret-a37b3e89ad8d)
+* [PyCaret 101 — for beginners](https://medium.com/analytics-vidhya/pycaret-101-for-beginners-27d9aefd34c5)
 
 # Neural Networks
 
