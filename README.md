@@ -16,6 +16,10 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 ---
 
+# APP
+
+* [Flet is a framework that enables you to easily build realtime web, mobile and desktop apps](https://github.com/flet-dev/flet)
+
 # IDE
 
 * [5 principais IDEs Python para Data Science](https://www.datacamp.com/community/tutorials/data-science-python-ide)
@@ -49,6 +53,8 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Imputing missing values with variants of IterativeImputer](https://scikit-learn.org/stable/auto_examples/impute/plot_iterative_imputer_variants_comparison.html)
 * [missingpy - library for missing data imputation in Python](https://github.com/epsilon-machine/missingpy)
 * [missingno - flexible and easy-to-use missing data visualizations and utilities](https://github.com/ResidentMario/missingno)
+* [MICE - IterativeImputer inspired by the R MICE package (Multivariate Imputation by Chained Equations)](https://scikit-learn.org/stable/modules/generated/sklearn.impute.IterativeImputer.html#sklearn.impute.IterativeImputer)
+* [KNNImputer from Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.impute.KNNImputer.html)
 
 # Detecção de Outliers / Anomalias
 
@@ -108,6 +114,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Python keras.layers.Conv1D() Examples](https://www.programcreek.com/python/example/89676/keras.layers.Conv1D)
 * [3 Ways to Encode Categorical Variables for Deep Learning](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/)
 * [Decision Forest for dummies- Kaggle](https://www.kaggle.com/kritidoneria/decision-forest-for-dummies)
+* [Stop using grid search! The complete practical tutorial on Keras Tuner.](https://towardsai.net/p/l/stop-using-grid-search-the-complete-practical-tutorial-on-keras-tuner)
 
 # Optimization
 
