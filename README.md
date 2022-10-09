@@ -165,6 +165,11 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
 
+# Data Drift detection
+
+* [nannyML - Detect silent model failure with our Open Source python library](https://www.nannyml.com/)
+* [“You Can’t Predict the Errors of Your Model”…Or Can You? (faz o nannyML na mão)](https://towardsdatascience.com/you-cant-predict-the-errors-of-your-model-or-can-you-1a2e4a1f38a0)
+
 # MLOps
 
 * [BentoML](https://github.com/bentoml/BentoML)
