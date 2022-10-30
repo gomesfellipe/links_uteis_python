@@ -19,6 +19,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 # APP
 
 * [Flet is a framework that enables you to easily build realtime web, mobile and desktop apps](https://github.com/flet-dev/flet)
+* [Hydra is an open-source Python framework that simplifies the development of research and other complex applications.](https://hydra.cc/docs/intro/)
 
 # IDE
 
@@ -87,6 +88,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [XBNet - Xtremely Boosted Network](https://github.com/tusharsarkar3/XBNet)
 * [LCE - Local Cascade Ensemble](https://towardsdatascience.com/random-forest-or-xgboost-it-is-time-to-explore-lce-2fed913eafb8)
 * [Linear Models at the leaves the Trees Based Models](https://github.com/cerlymarco/linear-tree)
+* [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/)
 
 # Modelos não supervisionados
 
@@ -176,6 +178,8 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [mlnotify - tracking URL for your model training](https://github.com/aporia-ai/mlnotify)
 * [NannyML - estimate post-deployment model performance](https://github.com/NannyML/nannyml)
 * [Truss: Serve any model without boilerplate code](https://lnkd.in/eVPfRFhG)
+* [Great Expectations is the leading tool for validating, documenting, and profiling your data to maintain quality and improve communication between teams.](https://greatexpectations.io/)
+* [pandera - A statistical data testing toolkit - provides a flexible and expressive API for performing data validation on dataframe-like objects to make data processing pipelines more readable and robust.](https://pandera.readthedocs.io/en/stable/)
 
 
 
