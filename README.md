@@ -181,6 +181,8 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Great Expectations is the leading tool for validating, documenting, and profiling your data to maintain quality and improve communication between teams.](https://greatexpectations.io/)
 * [pandera - A statistical data testing toolkit - provides a flexible and expressive API for performing data validation on dataframe-like objects to make data processing pipelines more readable and robust.](https://pandera.readthedocs.io/en/stable/)
 
+# Reporting
 
+* [How to Create a PDF Report for Your Data Analysis in Python](https://towardsdatascience.com/how-to-create-a-pdf-report-for-your-data-analysis-in-python-2bea81133b)
 
 
