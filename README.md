@@ -16,10 +16,18 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 ---
 
+# Outros repositorios de links úteis para Python
+
+* [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
+
 # APP
 
 * [Flet is a framework that enables you to easily build realtime web, mobile and desktop apps](https://github.com/flet-dev/flet)
 * [Hydra is an open-source Python framework that simplifies the development of research and other complex applications.](https://hydra.cc/docs/intro/)
+
+# Scrape / Crawler
+
+* [WebDriverManager: an open-source Java library that carries out the management of the drivers required by Selenium WebDriver](https://github.com/bonigarcia/webdrivermanager)
 
 # IDE
 
@@ -36,6 +44,10 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [Hundreds of algorithms implemented in python](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
 
+# Memory usage
+
+* [fastai - df_shrink](https://www.linkedin.com/posts/banias_python-datascience-machinelearning-activity-7017535325467983872-RoTF/?utm_source=share&utm_medium=member_ios)
+* [Intel® Extension for Scikit-learn*](https://www.intel.com/content/www/us/en/developer/tools/oneapi/scikit-learn.html#gs.mu3udn)
 
 # Análise Exploratória
 
@@ -71,6 +83,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 # Feature Selection
 
 * [How to perform Unsupervised Feature Selection using Supervised Algorithms](https://www.deepwizai.com/projects/how-to-perform-unsupervised-feature-selection-using-supervised-algorithms)
+* [ppscore - a Python implementation of the Predictive Power Score (PPS)](https://github.com/8080labs/ppscore)
 
 # Feature Extraction
 
@@ -83,12 +96,17 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [Guia completo para análise regressional usando Python](https://towardsdatascience.com/complete-guide-to-regressional-analysis-using-python-bbe76b3e451f)
 
+# Imbalanced data
+
+* [balance: a python package for balancing biased data samples (from Meta)](https://import-balance.org/docs/docs/overview/)
+
 # Modelos supervisionados
 
 * [XBNet - Xtremely Boosted Network](https://github.com/tusharsarkar3/XBNet)
 * [LCE - Local Cascade Ensemble](https://towardsdatascience.com/random-forest-or-xgboost-it-is-time-to-explore-lce-2fed913eafb8)
 * [Linear Models at the leaves the Trees Based Models](https://github.com/cerlymarco/linear-tree)
 * [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/)
+* [Random Forest with Tree Selection Monte Carlo Based (RF-TSMC)](https://github.com/ysraell/random-forest-mc)
 
 # Modelos não supervisionados
 
@@ -102,6 +120,14 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [skforecast - Time series forecasting with scikit-learn regressors](https://github.com/JoaquinAmatRodrigo/skforecast)
 * [Orbit: A Python Package for Bayesian Forecasting](https://github.com/uber/orbit)
 * [darts - easy manipulation and forecasting of time series](https://github.com/unit8co/darts)
+* [NeuralForecast - offers a large collection of neural forecasting models focused on their usability, and robustness.](https://nixtla.github.io/neuralforecast/)
+
+# Inferencia Causal
+
+* ["DoWhy" is a Python library that aims to spark causal thinking and analysis - Microsoft Research](https://github.com/py-why/dowhy)
+* [EconML: A Python Package for ML-Based Heterogeneous Treatment Effects Estimation](https://github.com/microsoft/EconML)
+* [gCastle: a causal structure learning toolchain. The package contains various functionality related to causal learning and evaluation](https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle)
+* [CausalPy - causal inference for quasi-experiments](https://www.pymc-labs.io/blog-posts/causalpy-a-new-package-for-bayesian-causal-inference-for-quasi-experiments/)
 
 # PyCaret
 
@@ -145,10 +171,11 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [NNI (Neural Network Intelligence)](https://nni.readthedocs.io/en/stable/)
 * [H2O](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
 * [MLjar](https://supervised.mljar.com/)
-* [LightAutoML](https://lightautoml.readthedocs.io/en/latest/)
+* [LightAutoML - LAMA](https://lightautoml.readthedocs.io/en/latest/)
 * [AutoGluon](https://auto.gluon.ai/stable/index.html)
 * [EvalML](evalml.alteryx.com/en/stable/)
 * [FLAML (Microsoft)](https://github.com/microsoft/FLAML)
+* [GAMA is an AutoML package for end-users and AutoML researchers](https://github.com/openml-labs/gama)
 
 # Text
 
