@@ -44,6 +44,11 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [Hundreds of algorithms implemented in python](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
 
+# Data Wrangling
+
+* [Polars](https://pola-rs.github.io/polars-book/user-guide/)
+* [PySpark](https://spark.apache.org/docs/latest/api/python/)
+
 # Memory usage
 
 * [fastai - df_shrink](https://www.linkedin.com/posts/banias_python-datascience-machinelearning-activity-7017535325467983872-RoTF/?utm_source=share&utm_medium=member_ios)
@@ -54,12 +59,14 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [SweetViz](https://github.com/fbdesignpro/sweetviz)
 * [Lux](https://github.com/lux-org/lux)
 * [Intel® Extension for Scikit-learn](https://intel.github.io/scikit-learn-intelex/)
+* [Sketch - An AI code-writing assistant for pandas users](https://github.com/approximatelabs/sketch)
 
 # Data Viz
 
 * [ipyvizzu - Jupyter notebook integration of Vizzu](https://github.com/vizzuhq/ipyvizzu)
 * [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/)
 * [Python Wrapper for NVD3 - It's time for beautiful charts](https://github.com/areski/python-nvd3)
+* [μPlot - A small (~45 KB min), fast chart for time series, lines, areas, ohlc & bars](https://github.com/leeoniya/uPlot)
 
 # Missing
 
@@ -137,6 +144,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 # Neural Networks
 
+* [**Deep Learning Tuning Playbook** - Google Research and Harvard University researchers - ⭐](https://github.com/google-research/tuning_playbook)
 * [Diferença entre um lote e uma época em uma rede neural - Maschine Learning Mastery](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
 * [Variational Autoencoders (VAEs) – Definição, Redução de Dimensionalidade, Espaço Latente e Regularização - Deep Learning Book DSA](https://www.deeplearningbook.com.br/variational-autoencoders-vaes-definicao-reducao-de-dimensionalidade-espaco-latente-e-regularizacao/)
 * [Python keras.layers.Conv1D() Examples](https://www.programcreek.com/python/example/89676/keras.layers.Conv1D)
@@ -188,7 +196,9 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 # Audio
 
+* [Multimodal Machine Learning for Music (MML4Music)](https://github.com/ilaria-manco/multimodal-ml-music)
 * [Segmentação de áudio (modelo de classificação)](https://medium.com/@octaviofisica/segmenta%C3%A7%C3%A3o-de-%C3%A1udio-2f1e978b3d16)
+* [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/)
 
 # Livros
 
@@ -198,6 +208,31 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [nannyML - Detect silent model failure with our Open Source python library](https://www.nannyml.com/)
 * [“You Can’t Predict the Errors of Your Model”…Or Can You? (faz o nannyML na mão)](https://towardsdatascience.com/you-cant-predict-the-errors-of-your-model-or-can-you-1a2e4a1f38a0)
+
+# Fairness
+
+* [Awesome-Fairness-in-AI](https://github.com/datamllab/awesome-fairness-in-ai#fairness-packages-and-frameworks)
+* FairSight - Assist in achieving fair decision making.
+* AIF360 - for detecting and mitigating bias in ML.
+* Fairlearn - for fair ML that supports various fairness metrics.
+* Themis-ML - for enforcing group fairness in ML.
+* Debiaswe - for debiasing word embeddings in natural language processing.
+*  ML-fairness-gym - for training and evaluating fair reinforcement learning models.
+*  fairness-in-ml - for fair and transparent ML.
+* AI Fairness 360 (AIF360) - for detecting and mitigating bias in ML.
+* bias-correction - for removing bias from ML models.
+* Fairness-comparison - benchmarking of fairness aware ML algorithms.
+* BlackBoxAuditing - contains a sample implementation of Gradient Feature Auditing (GFA).
+* Aequitas - For auditing ML models for discrimination and bias.
+* fairness-indicators - Tensorflow's Fairness Evaluation and Visualization Toolkit
+* Responsible-AI-Toolbox - It has various group-fairness metrics across sensitive features.
+* LinkedIn Fairness Toolkit (LiFT) - Scala/Spark library of fairness
+* Responsibly - Toolkit for Auditing and Mitigating Bias and Fairness
+* smclarify - Bias detection and mitigation for datasets and models.
+* inFairness - PyTorch package to train and audit ML models for Individual Fairness
+* Awesome-Fairness-in-AI - A curated list of Fairness in AI resources.
+
+📚 KDD-2021-Network-Fairness-Tutorial
 
 # MLOps
 
