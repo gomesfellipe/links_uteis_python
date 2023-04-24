@@ -58,8 +58,16 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [SweetViz](https://github.com/fbdesignpro/sweetviz)
 * [Lux](https://github.com/lux-org/lux)
+* [Dtale - Visualizer for pandas data structures](https://github.com/man-group/dtale)
+* [Mito Monorepo - Mito is a spreadsheet that lives inside your JupyterLab notebooks.](https://github.com/mito-ds/monorepo)
 * [Intel® Extension for Scikit-learn](https://intel.github.io/scikit-learn-intelex/)
 * [Sketch - An AI code-writing assistant for pandas users](https://github.com/approximatelabs/sketch)
+* [PyGWalker - Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
+* [Deepchecks - comprehensively validating your machine learning models and data with minimal effort.](https://github.com/deepchecks/deepchecks)
+* [Modin - Boost Pandas' performance up to 70x by modifying the import](https://modin.readthedocs.io/en/stable/getting_started/quickstart.html)
+* [PandaPy - the speed of NumPy and the usability of Pandas 10x to 50x faster (by @firmai)](https://github.com/firmai/pandapy)
+* [pyjanitor - Python implementation of R package Janitor](https://github.com/pyjanitor-devs/pyjanitor)
+* [swifter - A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner. (mais rapido que Dask)](https://github.com/jmcarpenter2/swifter)
 
 # Data Viz
 
@@ -67,6 +75,11 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/)
 * [Python Wrapper for NVD3 - It's time for beautiful charts](https://github.com/areski/python-nvd3)
 * [μPlot - A small (~45 KB min), fast chart for time series, lines, areas, ohlc & bars](https://github.com/leeoniya/uPlot)
+* [dexplot - Simple plotting library that wraps Matplotlib and integrated with DataFrames](https://github.com/dexplo/dexplot)
+
+# Estatistica
+
+* [pingouin - Statistical package in Python based on Pandas](https://github.com/raphaelvallat/pingouin)
 
 # Missing
 
@@ -82,6 +95,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Replace Outlier Detection by Simple Statistics with ECOD - Medium ](https://medium.com/geekculture/replace-outlier-detection-by-simple-statistics-with-ecod-f95a7d982f79)
 * [Anomalib - deep learning library that aims to collect state-of-the-art anomaly models with strong focus on image-based](https://github.com/openvinotoolkit/anomalib)
 * [Lidando com valores discrepantes usando três modelos robustos de regressão linear](https://towardsdatascience.com/dealing-with-outliers-using-three-robust-linear-regression-models-544cfbd00767)
+* [Time Series Anomaly Detection with PyCaret](https://towardsdatascience.com/time-series-anomaly-detection-with-pycaret-706a6e2b2427)
 
 # Data Transformation
 
@@ -128,6 +142,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Orbit: A Python Package for Bayesian Forecasting](https://github.com/uber/orbit)
 * [darts - easy manipulation and forecasting of time series](https://github.com/unit8co/darts)
 * [NeuralForecast - offers a large collection of neural forecasting models focused on their usability, and robustness.](https://nixtla.github.io/neuralforecast/)
+* [tsflex - flexible time-series operations](https://predict-idlab.github.io/tsflex/)
 
 # Inferencia Causal
 
