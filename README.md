@@ -193,12 +193,19 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Top2Vec learns jointly embedded topic, document and word vectors.](https://github.com/ddangelov/Top2Vec)
 * [BERTopic - topic modeling technique that leverages transformers and c-TF-IDF for easily interpretable topics](https://github.com/MaartenGr/BERTopic)
 * [Arabica - A Python package for exploratory analysis of text data](https://github.com/PetrKorab/Arabica)
+* [Primers • Generative Pre-trained Transformer (GPT)](https://aman.ai/primers/ai/gpt/)
+* [Primers • Bidirectional Encoder Representations from Transformers (BERT)](https://aman.ai/primers/ai/bert/)
 
 # Audio
 
 * [Multimodal Machine Learning for Music (MML4Music)](https://github.com/ilaria-manco/multimodal-ml-music)
 * [Segmentação de áudio (modelo de classificação)](https://medium.com/@octaviofisica/segmenta%C3%A7%C3%A3o-de-%C3%A1udio-2f1e978b3d16)
 * [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/)
+
+# Imagem
+
+* [Lama Cleaner - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.](https://github.com/Sanster/lama-cleaner)
+
 
 # Livros
 
