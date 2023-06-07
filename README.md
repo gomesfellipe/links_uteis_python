@@ -128,6 +128,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Linear Models at the leaves the Trees Based Models](https://github.com/cerlymarco/linear-tree)
 * [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/)
 * [Random Forest with Tree Selection Monte Carlo Based (RF-TSMC)](https://github.com/ysraell/random-forest-mc)
+* [Robust linear model estimation using RANSAC](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ransac.html)
 
 # Modelos não supervisionados
 
