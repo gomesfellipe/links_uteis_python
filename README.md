@@ -59,8 +59,10 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [SweetViz](https://github.com/fbdesignpro/sweetviz)
 * [Lux](https://github.com/lux-org/lux)
 * [Dtale - Visualizer for pandas data structures](https://github.com/man-group/dtale)
+* [DataPrep - prepare your data using a single library with a few lines of code](https://docs.dataprep.ai/index.html)
 * [Mito Monorepo - Mito is a spreadsheet that lives inside your JupyterLab notebooks.](https://github.com/mito-ds/monorepo)
 * [Intel® Extension for Scikit-learn](https://intel.github.io/scikit-learn-intelex/)
+* [Pandas AI - adds generative artificial intelligence capabilities to Pandas](https://github.com/gventuri/pandas-ai)
 * [Sketch - An AI code-writing assistant for pandas users](https://github.com/approximatelabs/sketch)
 * [PyGWalker - Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [Deepchecks - comprehensively validating your machine learning models and data with minimal effort.](https://github.com/deepchecks/deepchecks)
@@ -100,6 +102,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 # Data Transformation
 
 * [Transform your categorical columns with imperio SmoothingTransformer](https://medium.com/softplus-publication/transform-your-categorical-columns-with-imperio-smoothingtransformer-d6534c283c60)
+* [Feature-engine - A Python library for Feature Engineering and Selection](https://feature-engine.trainindata.com/en/latest/index.html)
 
 # Feature Selection
 
@@ -200,6 +203,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [EvalML](evalml.alteryx.com/en/stable/)
 * [FLAML (Microsoft)](https://github.com/microsoft/FLAML)
 * [GAMA is an AutoML package for end-users and AutoML researchers](https://github.com/openml-labs/gama)
+* [AutoML Frameworks](https://openml.github.io/automlbenchmark/frameworks.html)
 
 # Text
 
