@@ -184,6 +184,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Post-processing the SHAP values of categorical](https://github.com/conorosully/medium-articles/blob/master/src/interpretable%20ml/SHAP/SHAP_catboost.ipynb)
 * [ELI5 - helps to debug machine learning classifiers and explain their predictions](https://github.com/TeamHG-Memex/eli5)
 * [Skater - Oracle - framework to help one build an Interpretable machine learning system often needed for real world use-cases.]()
+* [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE)
 
 # Evalue
 
@@ -275,4 +276,9 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [How to Create a PDF Report for Your Data Analysis in Python](https://towardsdatascience.com/how-to-create-a-pdf-report-for-your-data-analysis-in-python-2bea81133b)
 
+# Generative AI - Como usuário
 
+- [LearningStudioAI, a ferramenta de criação de cursos on-line de última geração](https://learningstudioai.com/)
+- [Perplexity and it will search the internet and write you a quick answer with cited sources](https://www.perplexity.ai/)
+- [ChatGPT do Google](http://Bard.google.com)
+- [ChatGPT da Microsoft](http://bing.com/chat)
