@@ -108,6 +108,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [How to perform Unsupervised Feature Selection using Supervised Algorithms](https://www.deepwizai.com/projects/how-to-perform-unsupervised-feature-selection-using-supervised-algorithms)
 * [ppscore - a Python implementation of the Predictive Power Score (PPS)](https://github.com/8080labs/ppscore)
+* [mRMR, which stands for "minimum Redundancy - Maximum Relevance", is a feature selection algorithm.](https://github.com/smazzanti/mrmr)
 
 # Feature Extraction
 
