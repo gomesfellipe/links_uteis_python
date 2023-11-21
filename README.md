@@ -98,6 +98,8 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Anomalib - deep learning library that aims to collect state-of-the-art anomaly models with strong focus on image-based](https://github.com/openvinotoolkit/anomalib)
 * [Lidando com valores discrepantes usando três modelos robustos de regressão linear](https://towardsdatascience.com/dealing-with-outliers-using-three-robust-linear-regression-models-544cfbd00767)
 * [Time Series Anomaly Detection with PyCaret](https://towardsdatascience.com/time-series-anomaly-detection-with-pycaret-706a6e2b2427)
+* [Time Series Anomaly Detection with PyTimeTK](https://business-science.github.io/pytimetk/guides/06_anomalize.html)
+
 
 # Data Transformation
 
@@ -148,6 +150,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [darts - easy manipulation and forecasting of time series](https://github.com/unit8co/darts)
 * [NeuralForecast - offers a large collection of neural forecasting models focused on their usability, and robustness.](https://nixtla.github.io/neuralforecast/)
 * [tsflex - flexible time-series operations](https://predict-idlab.github.io/tsflex/)
+* [PyTimetk’s Mission: To make time series analysis easier, faster, and more enjoyable in Python.](https://business-science.github.io/pytimetk/)
 
 # Inferencia Causal
 
