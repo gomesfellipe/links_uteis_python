@@ -286,3 +286,4 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 - [Perplexity and it will search the internet and write you a quick answer with cited sources](https://www.perplexity.ai/)
 - [ChatGPT do Google](http://Bard.google.com)
 - [ChatGPT da Microsoft](http://bing.com/chat)
+- [Introducing the Lyria model DeepMind Model -  state-of-the-art music generative model](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
