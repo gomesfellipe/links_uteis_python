@@ -287,3 +287,8 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 - [ChatGPT do Google](http://Bard.google.com)
 - [ChatGPT da Microsoft](http://bing.com/chat)
 - [Introducing the Lyria model DeepMind Model -  state-of-the-art music generative model](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
+
+# Generative AI - Vídeos
+
+- 
+- [[1hr Talk] Intro to Large Language Models - The busy person`s intro to LLMs](https://www.youtube.com/watch?app=desktop&v=zjkBMFhNj_g)
