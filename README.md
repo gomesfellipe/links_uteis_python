@@ -291,5 +291,5 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 # Generative AI - Vídeos
 
-- 
+- [A Hackers' Guide to Language Models - Jeremy Howard](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 - [[1hr Talk] Intro to Large Language Models - The busy person`s intro to LLMs](https://www.youtube.com/watch?app=desktop&v=zjkBMFhNj_g)
