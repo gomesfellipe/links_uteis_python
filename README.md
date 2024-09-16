@@ -210,6 +210,10 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [FLAML (Microsoft)](https://github.com/microsoft/FLAML)
 * [GAMA is an AutoML package for end-users and AutoML researchers](https://github.com/openml-labs/gama)
 * [AutoML Frameworks](https://openml.github.io/automlbenchmark/frameworks.html)
+* PyCaret
+* Auto-ViML
+* AutoGluon
+* MLBox
 
 # Text
 
