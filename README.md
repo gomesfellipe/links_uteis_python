@@ -289,6 +289,10 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 - [Introducing the Lyria model DeepMind Model -  state-of-the-art music generative model](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
 - [Community demo for Stable Video Diffusion - Img2Vid - XT - HuggingFace](https://huggingface.co/spaces/multimodalart/stable-video-diffusion)
 
+# Generative AI - como programador
+
+- [Scikit-LLM: Scikit-Learn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm)
+
 # Generative AI - Vídeos
 
 - [A Hackers' Guide to Language Models - Jeremy Howard](https://www.youtube.com/watch?v=jkrNMKz9pWU)
