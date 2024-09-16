@@ -242,6 +242,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [nannyML - Detect silent model failure with our Open Source python library](https://www.nannyml.com/)
 * [“You Can’t Predict the Errors of Your Model”…Or Can You? (faz o nannyML na mão)](https://towardsdatascience.com/you-cant-predict-the-errors-of-your-model-or-can-you-1a2e4a1f38a0)
 * [Which test is the best? We compared 5 methods to detect data drift on large datasets](https://www.evidentlyai.com/blog/data-drift-detection-large-datasets)
+  * [notebook](https://colab.research.google.com/drive/1EFFcs0wDzToxSR6nw1umXDgPyeoP_Uk6)
 
 # Fairness
 
