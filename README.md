@@ -131,11 +131,18 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 # Modelos supervisionados
 
 * [XBNet - Xtremely Boosted Network](https://github.com/tusharsarkar3/XBNet)
+* [Tabnet](https://www.kaggle.com/code/enigmak/tabnet-deep-neural-network-for-tabular-data)
+* [XGBoost](https://xgboost.readthedocs.io/en/stable/)
+* [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
+* [CatBoost](https://catboost.ai/)
+* [RuleFit](https://github.com/christophM/rulefit)
 * [LCE - Local Cascade Ensemble](https://towardsdatascience.com/random-forest-or-xgboost-it-is-time-to-explore-lce-2fed913eafb8)
 * [Linear Models at the leaves the Trees Based Models](https://github.com/cerlymarco/linear-tree)
 * [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://www.automl.org/tabpfn-a-transformer-that-solves-small-tabular-classification-problems-in-a-second/)
 * [Random Forest with Tree Selection Monte Carlo Based (RF-TSMC)](https://github.com/ysraell/random-forest-mc)
 * [Robust linear model estimation using RANSAC](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ransac.html)
+* [Wide and Deep Neural Network with Keras](https://www.kaggle.com/code/jonaspalucibarbosa/tps06-21-wide-and-deep-nn-w-keras)
+* [TensorFlow Decision Forests - Gradient Boosting](https://blog.tensorflow.org/2021/05/introducing-tensorflow-decision-forests.html)
 
 # Modelos não supervisionados
 
@@ -248,7 +255,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Which test is the best? We compared 5 methods to detect data drift on large datasets](https://www.evidentlyai.com/blog/data-drift-detection-large-datasets)
   * [notebook](https://colab.research.google.com/drive/1EFFcs0wDzToxSR6nw1umXDgPyeoP_Uk6)
 
-# Fairness
+# Fairness data
 
 * [Awesome-Fairness-in-AI](https://github.com/datamllab/awesome-fairness-in-ai#fairness-packages-and-frameworks)
 * FairSight - Assist in achieving fair decision making.
