@@ -53,6 +53,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [fastai - df_shrink](https://www.linkedin.com/posts/banias_python-datascience-machinelearning-activity-7017535325467983872-RoTF/?utm_source=share&utm_medium=member_ios)
 * [Intel® Extension for Scikit-learn*](https://www.intel.com/content/www/us/en/developer/tools/oneapi/scikit-learn.html#gs.mu3udn)
+* [fireducks - Compiler Accelerated DataFrame Library for Python with fully-compatible pandas API](https://blog.dailydoseofds.com/p/accelerate-pandas-20x-using-fireducks)
 
 # Análise Exploratória
 
