@@ -160,6 +160,8 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [NeuralForecast - offers a large collection of neural forecasting models focused on their usability, and robustness.](https://nixtla.github.io/neuralforecast/)
 * [tsflex - flexible time-series operations](https://predict-idlab.github.io/tsflex/)
 * [PyTimetk’s Mission: To make time series analysis easier, faster, and more enjoyable in Python.](https://business-science.github.io/pytimetk/)
+* [sktime](https://www.sktime.net/en/stable/)
+* [nixtla - TimeGPT-1](https://github.com/Nixtla/nixtla)
 
 # Inferencia Causal
 
