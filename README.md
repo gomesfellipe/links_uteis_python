@@ -305,6 +305,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 - [ChatGPT da Microsoft](http://bing.com/chat)
 - [Introducing the Lyria model DeepMind Model -  state-of-the-art music generative model](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
 - [Community demo for Stable Video Diffusion - Img2Vid - XT - HuggingFace](https://huggingface.co/spaces/multimodalart/stable-video-diffusion)
+- [Meta Movie Gen](https://ai.meta.com/research/movie-gen/)
 
 # Generative AI - como programador
 
