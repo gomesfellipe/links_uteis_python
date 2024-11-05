@@ -106,6 +106,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [Transform your categorical columns with imperio SmoothingTransformer](https://medium.com/softplus-publication/transform-your-categorical-columns-with-imperio-smoothingtransformer-d6534c283c60)
 * [Feature-engine - A Python library for Feature Engineering and Selection](https://feature-engine.trainindata.com/en/latest/index.html)
+* [5 Lesser-Known Data Transformation Techniques for Better Analysis](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis?utm_source=www.datahackers.news&utm_medium=newsletter&utm_campaign=como-escrever-o-prompt-perfeito-um-guia-para-profissionais-de-dados-que-usam-ia-generativa)
 
 # Feature Selection
 
