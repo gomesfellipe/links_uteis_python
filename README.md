@@ -20,6 +20,10 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 * [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
 
+# Cursos
+
+* [Youtube Prof. Francisco Rodrigues - Canal no Yotube com cursos de Estatística e Probabilidade em Python](https://www.youtube.com/@FranciscoRodrigues/playlists)
+
 # APP
 
 * [Flet is a framework that enables you to easily build realtime web, mobile and desktop apps](https://github.com/flet-dev/flet)
