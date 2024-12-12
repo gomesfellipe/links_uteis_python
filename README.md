@@ -166,7 +166,13 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [tsflex - flexible time-series operations](https://predict-idlab.github.io/tsflex/)
 * [PyTimetk’s Mission: To make time series analysis easier, faster, and more enjoyable in Python.](https://business-science.github.io/pytimetk/)
 * [sktime](https://www.sktime.net/en/stable/)
+* [nixtla - statsforecast - offers a collection of widely used univariate time series forecasting models](https://github.com/Nixtla/statsforecast)
+* [nixtla - mlforecast - is a framework to perform time series forecasting using machine learning models](https://github.com/Nixtla/mlforecast/tree/main)
+* [nixtla - neuralforecast - offers a large collection of neural forecasting models focusing on their performance, usability, and robustness](https://github.com/Nixtla/neuralforecast)
+* [nixtla - hierarchicalforecast - offers a collection of reconciliation methods](https://github.com/Nixtla/hierarchicalforecast)
 * [nixtla - TimeGPT-1](https://github.com/Nixtla/nixtla)
+* [Merlion: A Machine Learning Library for Time Series](https://github.com/salesforce/Merlion)
+* [PyTorch Forecasting is a PyTorch-based package for forecasting with state-of-the-art deep learning architectures](https://github.com/sktime/pytorch-forecasting)
 
 # Inferencia Causal
 
