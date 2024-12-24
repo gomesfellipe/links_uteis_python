@@ -173,6 +173,8 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [nixtla - TimeGPT-1](https://github.com/Nixtla/nixtla)
 * [Merlion: A Machine Learning Library for Time Series](https://github.com/salesforce/Merlion)
 * [PyTorch Forecasting is a PyTorch-based package for forecasting with state-of-the-art deep learning architectures](https://github.com/sktime/pytorch-forecasting)
+* [Kats - a lightweight, easy-to-use, and generalizable framework to perform time series analysis](https://github.com/facebookresearch/Kats/tree/main)
+* [HyperTS - provides an end-to-end time series (TS) analysis toolkit](https://github.com/DataCanvasIO/HyperTS/tree/main)
 
 # Inferencia Causal
 
