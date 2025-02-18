@@ -118,6 +118,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [ppscore - a Python implementation of the Predictive Power Score (PPS)](https://github.com/8080labs/ppscore)
 * [mRMR, which stands for "minimum Redundancy - Maximum Relevance", is a feature selection algorithm.](https://github.com/smazzanti/mrmr)
 * [Boruta-Shap](https://github.com/Ekeany/Boruta-Shap)
+* [RFECV - Recursive Feature Elimination Cross Validation](https://www.scikit-yb.org/en/latest/api/model_selection/rfecv.html)
 
 # Feature Extraction
 
