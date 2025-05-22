@@ -177,6 +177,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [Kats - a lightweight, easy-to-use, and generalizable framework to perform time series analysis](https://github.com/facebookresearch/Kats/tree/main)
 * [HyperTS - provides an end-to-end time series (TS) analysis toolkit](https://github.com/DataCanvasIO/HyperTS/tree/main)
 * [N-BEATS - neural-network based model for univariate timeseries forecasting](https://github.com/ServiceNow/N-BEATS) (vi neste [post](https://www.linkedin.com/feed/update/urn:li:activity:7331338986583457794?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWYrHsBdQJy3XFOt_I_ArgaugYoPRia-dQ) )
+* [`aeon` - `scikit-learn` compatible toolkit for time series machine learning tasks such as classification, regression, clustering, anomaly detection, segmentation and similarity search.](https://www.aeon-toolkit.org/en/stable/index.html)
 
 # Inferencia Causal
 
