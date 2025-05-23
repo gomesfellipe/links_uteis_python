@@ -243,6 +243,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * Auto-ViML
 * AutoGluon
 * MLBox
+* [AutoML Projects Github Links](https://www.kaggle.com/discussions/general/237634)
 
 # Text
 
