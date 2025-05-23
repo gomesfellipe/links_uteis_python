@@ -179,6 +179,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [N-BEATS - neural-network based model for univariate timeseries forecasting](https://github.com/ServiceNow/N-BEATS) (vi neste [post](https://www.linkedin.com/feed/update/urn:li:activity:7331338986583457794?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWYrHsBdQJy3XFOt_I_ArgaugYoPRia-dQ) )
 * [`aeon` - `scikit-learn` compatible toolkit for time series machine learning tasks such as classification, regression, clustering, anomaly detection, segmentation and similarity search.](https://www.aeon-toolkit.org/en/stable/index.html)
 * [Bayesloop - focuses on fitting time series models with time-varying parameters and model selection based on Bayesian inference](https://github.com/christophmark/bayesloop)
+* [Merlion - A Machine Learning Library for Time Series](https://github.com/salesforce/Merlion)
 
 # Inferencia Causal
 
@@ -217,6 +218,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 * [ELI5 - helps to debug machine learning classifiers and explain their predictions](https://github.com/TeamHG-Memex/eli5)
 * [Skater - Oracle - framework to help one build an Interpretable machine learning system often needed for real world use-cases.]()
 * [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE)
+* [InterpretML - In the beginning machines learned in darkness, and data scientists struggled in the void to explain them](https://github.com/interpretml/interpret/)
 
 # Evalue
 
@@ -313,6 +315,10 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 # Reporting
 
 * [How to Create a PDF Report for Your Data Analysis in Python](https://towardsdatascience.com/how-to-create-a-pdf-report-for-your-data-analysis-in-python-2bea81133b)
+
+# Deploy
+
+* [Model Deployment using Flask and PyCaret](https://sagarjiyani3010.medium.com/model-deployment-using-flask-and-pycaret-b09df0a33635)
 
 # Generative AI - Como usuário
 
