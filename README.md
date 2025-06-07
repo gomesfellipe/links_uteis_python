@@ -61,6 +61,7 @@ Existem links tanto em portugues quanto em inglês e todos os links aqui estão 
 
 # Análise Exploratória
 
+* [The ultimate data visualization handbook for designers](https://uxmag.medium.com/the-ultimate-data-visualization-handbook-for-designers-efa7d6e0b6fe)
 * [SweetViz](https://github.com/fbdesignpro/sweetviz)
 * [Lux](https://github.com/lux-org/lux)
 * [Dtale - Visualizer for pandas data structures](https://github.com/man-group/dtale)
